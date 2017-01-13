@@ -1,6 +1,9 @@
 # JavaSpike
 Java and gradle bare bones.
 
+Following these tutorials:
+https://spring.io/guides/gs/gradle/
+
 # Tools
 
 - gradle
